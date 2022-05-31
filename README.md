@@ -1,7 +1,5 @@
 ## Hello World! 👨🏽‍💻
 
-<br />
-
 - Me chamo Gabriel, sou de 1990, falo de Belém do Pará (da Amazônia brasileira), sou PcD e acredito em todas as formas de amor.
 
 - Atualmente trabalho em modelo híbrido passando 90% do tempo em home office. Voltei ao curso de Bach. de Sistemas de Informação no final de 2021 e desde então tenho estudado todos os dias da semana, já vi de "tudo um pouco"; participando de Bootcamps, Cursos, buscando Certificações no intuito de me tornar o profissional mais completo possível.
@@ -10,23 +8,18 @@
 
 - Gostaria muito ser inserido no mercado de tecnologia novamente para poder crescer junto com a empresa e garantir uma melhor qualidade de vida a maior quantidade de pessoas possível, porque é nisso que eu acredito: trabalhar em máquinas, algoritmos, desenvolver programas para melhorar a vida das Pessoas!
 
-<br />
-
 <div align="center">
 
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabrielgalvaoo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielgalvaoo/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5591992408488)
 
 </div>
-<br />
 
 <div align="center">
   <a href="https://github.com/gbrieal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbrieal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrieal&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-<br />
 
 ## Tecnologias venho estudando e desenvolvendo
 
