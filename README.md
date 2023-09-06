@@ -3,7 +3,7 @@
 ###
 <hr/>
 
-<p align="left">Me chamo Gabriel, sou de 1990, falo de Belém do Pará (da Amazônia brasileira), sou PcD e acredito em todas as formas de amor.<br><br>Atualmente trabalho em modelo híbrido passando 90% do tempo em home office. Voltei ao curso de Bach. de Sistemas de Informação no final de 2021 e desde então tenho estudado todos os dias da semana, já vi de "tudo um pouco"; participando de Bootcamps, Cursos, buscando Certificações no intuito de me tornar o profissional mais completo possível.<br><br>Nesse tempo, curti muito desenvolver em Java e SQL principalmente, então acredito que a área de Back-End é onde eu vá me encontrar mais, no entanto também tenho estudado bastante JavaScript, TypeScript, Angular, HTML, CSS e entender como trabalhar em Full Stack quando necessário.<br><br>Gostaria muito ser inserido no mercado de tecnologia novamente para poder crescer junto com a empresa e garantir uma melhor qualidade de vida a maior quantidade de pessoas possível, porque é nisso que eu acredito: trabalhar em máquinas, algoritmos, desenvolver programas para melhorar a vida das Pessoas!</p>
+<p align="left">Me chamo Gabriel, nasci em 1990 e sou de Belém do Pará (da Amazônia brasileira), sou PcD e acredito em todas as formas de amor.<br><br>Estou na tecnologia com o intuito de garantir uma melhor qualidade de vida a maior quantidade de pessoas possível, porque é nisso que eu acredito: trabalhar em máquinas, algoritmos, desenvolver programas para melhorar a vida das Pessoas!</p>
 
 ###
 <hr>
